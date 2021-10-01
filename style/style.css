@@ -1,0 +1,28 @@
+    .mainForm {
+    margin: 40px;
+    /*width: 50%;*/
+    }
+
+    .tab {
+        width: 100%;
+    }
+
+    table {
+        margin: 50px;
+    }
+
+    th, td {
+        padding: 10px;
+    }
+    th {
+        background: #303030;
+        color: wheat;
+    }
+
+    td {
+        background-color: darkgreen;
+        color: wheat;
+    }
+    .hidden {
+        display: none;
+    }
